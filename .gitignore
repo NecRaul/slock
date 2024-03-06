@@ -1,0 +1,5 @@
+slock
+*.o
+*.tar.gz
+.orig
+.rej
