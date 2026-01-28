@@ -13,5 +13,4 @@ static const int failonclear = 1;
 
 /* Background image path, should be available to the user above */
 /* The path should be absolute like /home/username/Pictures/Wallpapers/Wallpaper.jpg */
-static const char *background_image = "/home/necraul/Pictures/Wallpapers/Kuroneko_23.png";
-
+static const char *background_image = "/home/necraul/Pictures/Wallpapers/Kuroneko/Kuroneko_23.png";
